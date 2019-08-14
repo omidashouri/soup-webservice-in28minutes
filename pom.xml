@@ -48,6 +48,13 @@
             <scope>test</scope>
         </dependency>
 
+        <!-- ..add for enable wsdl.. -->
+<!--        <dependency>
+            <groupId>wsdl4j</groupId>
+            <artifactId>wsdl4j</artifactId>
+        </dependency>-->
+        <!-- ..add for enable wsdl.. -->
+
         <!-- ..jaxb.. -->
         <dependency>
             <groupId>com.sun.activation</groupId>
