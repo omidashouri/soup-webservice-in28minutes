@@ -22,6 +22,7 @@ public class CourseDetailsEndpoint {
         courseDetails.setName("Microservices Course");
         courseDetails.setDescription("that would be a wonderful course");
 
+        response.setCourseDetail(courseDetails);
         return response;
     }
 }
